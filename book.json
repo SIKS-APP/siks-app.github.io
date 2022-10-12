@@ -1,6 +1,6 @@
 {
-    "root": ".",
-    "title": "閲覧した論文をmdにまとめgit pagesで表示する",
+    "root": "./docs/",
+    "title": "mdをgithubpagesで表示",
     "author": "Showhey798",
     "language": "ja"
   }
